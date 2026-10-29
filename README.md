@@ -45,7 +45,7 @@ scp VCam.dylib root@设备IP:/Library/MobileSubstrate/DynamicLibraries/
 scp VCam.plist root@设备IP:/Library/MobileSubstrate/DynamicLibraries/
 ssh root@设备IP "killall -9 SpringBoard"
 ```
-ok
+
 ## 使用
 
 1. 安装后任意 App 右上角出现 📷 悬浮按钮
@@ -68,3 +68,8 @@ ok
 ## License
 
 MIT
+
+
+
+
+ 
